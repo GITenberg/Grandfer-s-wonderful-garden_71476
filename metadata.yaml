@@ -1,5 +1,8 @@
 _repo: Grandfer-s-wonderful-garden_71476
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stooke, Eleanora H.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '55669'
     url: http://www.gutenberg.org/2009/agents/55669
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71476#Grandfer-s-wonderful-garden
 gutenberg_issued: '2023-08-24'
 identifiers:
   gutenberg: '71476'
